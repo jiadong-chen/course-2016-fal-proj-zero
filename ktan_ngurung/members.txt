@@ -1,2 +1,2 @@
-ktan:kristel
-ngurung:nisa
+ktango:ktan
+ng10:ngurung
